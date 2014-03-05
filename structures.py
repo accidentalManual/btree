@@ -1,3 +1,9 @@
+'''
+external b-tree implementation. useful for large data set iterations
+
+-michael appel
+'''
+
 import pickle
 import os
 
